@@ -104,7 +104,7 @@ function iniciarOuPausar() {
     play.play();
     intervaloId = setInterval(contagemRegressiva, 1000);
     iniciarOuPausarBt.textContent = "Pausar";
-    iconeComecarOuPausar.setAttribute('src', '/projeto-fokus/imagens/pause.png');
+    iconeComecarOuPausar.setAttribute('src', './imagens/pause.png');
 }
 
 function zerar(){
