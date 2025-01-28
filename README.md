@@ -1,10 +1,10 @@
-# Fokus
+# Devs & Dragons
 
-Projeto temporizador estilo Pomodoro em JavaScript manipulação do DOM.
+Projeto de simulação de um jogo de duelo de cartas utilizando JavaScript Orientado a Objetos.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Fokus**
+| :sparkles: Nome        | **Devs e Dragons**
 | :label: Tecnologias | JavaScript
 | :rocket: URL         | https://andreduarte99.github.io/projeto-fokus/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom
