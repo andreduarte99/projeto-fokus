@@ -4,14 +4,14 @@ Projeto de simulação de um jogo de duelo de cartas utilizando JavaScript Orien
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Devs e Dragons**
-| :label: Tecnologias | JavaScript
+| :sparkles: Nome        | **Devs & Dragons**
+| :label: Tecnologias | JavaScript, POO.
 | :rocket: URL         | https://andreduarte99.github.io/projeto-fokus/
-| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-orientacao-a-objetos
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
+![Captura de tela de 2025-01-27 22-33-47](https://github.com/user-attachments/assets/8298f786-5848-4b02-bacd-f59b32550133#vitrinedev)
 
-![fokus](https://github.com/user-attachments/assets/2c8091ec-3d1e-40a6-a648-ecf5292f46dd#vitrinedev)
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" alt="badges"/>
